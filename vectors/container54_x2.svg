@@ -1,0 +1,11 @@
+<svg width="160" height="322" viewBox="0 0 160 322" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M159,160.224C159,248.473 87.477,320.013 -0.75,320.013L-0.75,0.435C87.477,0.435 159,71.975 159,160.224Z" fill="#1C528A"/>
+<path d="M79.125,40.382C101.182,40.382 119.063,58.267 119.063,80.329L119.063,120.277L79.125,120.277C57.068,120.277 39.188,102.392 39.188,80.329C39.188,58.267 57.068,40.382 79.125,40.382Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#pf_0_67_1465)"/>
+<path d="M79.125,40.382C101.182,40.382 119.063,58.267 119.063,80.329L119.063,120.277L79.125,120.277C57.068,120.277 39.188,102.392 39.188,80.329C39.188,58.267 57.068,40.382 79.125,40.382Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#pattern_1_67_1465)" style="mix-blend-mode:overlay"/>
+<defs>
+<linearGradient id="pf_0_67_1465" x1="-0.449" y1="80.028" x2="78.824" y2="159.319" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FEC55F"/>
+<stop offset="1" stop-color="#FCD06D"/>
+</linearGradient>
+</defs>
+</svg>

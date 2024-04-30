@@ -1,0 +1,12 @@
+<svg width="160" height="162" viewBox="0 0 160 162" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M79.875,0.62L159.75,80.515L79.875,160.409L0,80.515L79.875,0.62Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#pf_0_67_1213)"/>
+<path d="M79.875,0.62L159.75,80.515L79.875,160.409L0,80.515L79.875,0.62Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#pattern_1_67_1213)" style="mix-blend-mode:overlay"/>
+<path d="M79.875,40.567L119.813,80.515L79.875,120.462L39.938,80.515L79.875,40.567Z" clip-rule="evenodd" fill-rule="evenodd" fill="#E45865"/>
+<path d="M79.875,40.567L119.813,80.515L79.875,120.462L39.938,80.515L79.875,40.567Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#pattern_1_67_1214)" style="mix-blend-mode:overlay"/>
+<defs>
+<linearGradient id="pf_0_67_1213" x1="-79.272" y1="79.912" x2="79.272" y2="238.494" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FEC55F"/>
+<stop offset="1" stop-color="#FCD06D"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M-1,-0.224L158.75,-0.224L158.75,159.565L-1,-0.224Z" fill="#FFD4C4"/>
+<path d="M-1,-0.224L158.75,-0.224L158.75,159.565L-1,-0.224Z" clip-rule="evenodd" fill-rule="evenodd" transform="rotate(-360 78.875 79.67)" fill="url(#pf_0_67_1206)"/>
+<path d="M-1,-0.224L158.75,-0.224L158.75,159.565L-1,-0.224Z" clip-rule="evenodd" fill-rule="evenodd" transform="rotate(-360 78.875 79.67)" fill="url(#pattern_1_67_1206)" style="mix-blend-mode:overlay"/>
+<path d="M78.875,119.618C100.932,119.618 118.813,101.733 118.813,79.671C118.813,57.608 100.932,39.723 78.875,39.723C56.818,39.723 38.938,57.608 38.938,79.671C38.938,101.733 56.818,119.618 78.875,119.618Z" clip-rule="evenodd" fill-rule="evenodd" fill="#E45865"/>
+<path d="M78.875,119.618C100.932,119.618 118.813,101.733 118.813,79.671C118.813,57.608 100.932,39.723 78.875,39.723C56.818,39.723 38.938,57.608 38.938,79.671C38.938,101.733 56.818,119.618 78.875,119.618Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#pattern_1_67_1218)" style="mix-blend-mode:overlay"/>
+<defs>
+<linearGradient id="pf_0_67_1206" x1="238.022" y1="80.274" x2="79.478" y2="-78.309" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FEC55F"/>
+<stop offset="1" stop-color="#FCD06D"/>
+</linearGradient>
+</defs>
+</svg>

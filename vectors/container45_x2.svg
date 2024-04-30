@@ -1,0 +1,12 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M78.875,-0.013C122.989,-0.013 158.75,35.757 158.75,79.882L158.75,159.776L78.875,159.776C34.761,159.776 -1,124.006 -1,79.882C-1,35.757 34.761,-0.013 78.875,-0.013Z" clip-rule="evenodd" fill-rule="evenodd" fill="#E45865"/>
+<path d="M78.875,-0.013C122.989,-0.013 158.75,35.757 158.75,79.882L158.75,159.776L78.875,159.776C34.761,159.776 -1,124.006 -1,79.882C-1,35.757 34.761,-0.013 78.875,-0.013Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#pattern_1_67_1168)" style="mix-blend-mode:overlay"/>
+<path d="M79.674,39.935C101.731,39.935 119.611,57.82 119.611,79.882L119.611,119.829L79.674,119.829C57.617,119.829 39.736,101.944 39.736,79.882C39.736,57.82 57.617,39.935 79.674,39.935Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#pf_0_67_1169)"/>
+<path d="M79.674,39.935C101.731,39.935 119.611,57.82 119.611,79.882L119.611,119.829L79.674,119.829C57.617,119.829 39.736,101.944 39.736,79.882C39.736,57.82 57.617,39.935 79.674,39.935Z" clip-rule="evenodd" fill-rule="evenodd" fill="url(#pattern_1_67_1169)" style="mix-blend-mode:overlay"/>
+<defs>
+<linearGradient id="pf_0_67_1169" x1="0.1" y1="79.58" x2="79.372" y2="158.872" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FEC55F"/>
+<stop offset="1" stop-color="#FCD06D"/>
+</linearGradient>
+</defs>
+</svg>
