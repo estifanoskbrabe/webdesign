@@ -1,0 +1,11 @@
+<svg width="176" height="176" viewBox="0 0 176 176" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M87.688,0C136.116,0 175.375,39.269 175.375,87.709L175.375,175.418L87.688,175.418C39.259,175.418 0,136.149 0,87.709C0,39.269 39.259,0 87.688,0Z" clip-rule="evenodd" fill-rule="evenodd" transform="rotate(180 87.688 87.709)" fill="url(#pf_0_67_211)"/>
+<path d="M87.688,0C136.116,0 175.375,39.269 175.375,87.709L175.375,175.418L87.688,175.418C39.259,175.418 0,136.149 0,87.709C0,39.269 39.259,0 87.688,0Z" clip-rule="evenodd" fill-rule="evenodd" transform="rotate(180 87.688 87.709)" fill="url(#pattern_1_67_211)" style="mix-blend-mode:overlay"/>
+<path d="M87.688,0C136.116,0 175.375,39.269 175.375,87.709L175.375,175.418L87.688,175.418C39.259,175.418 0,136.149 0,87.709C0,39.269 39.259,0 87.688,0Z" clip-rule="evenodd" fill-rule="evenodd" transform="rotate(180 87.688 87.709)" fill="#E45865"/>
+<defs>
+<linearGradient id="pf_0_67_211" x1="88.35" y1="-87.004" x2="-85.744" y2="87.047" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FEC55F"/>
+<stop offset="1" stop-color="#FCD06D"/>
+</linearGradient>
+</defs>
+</svg>
